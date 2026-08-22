@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://norfolkductcleaning.ca/sitemap-index.xml
